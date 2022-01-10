@@ -1,7 +1,7 @@
 #define BOUNCE_WITH_PROMPT_DETECTION    // Make button state changes available immediately
 
 #include <Bounce2.h>      // https://github.com/thomasfredericks/Bounce2
-#include <BleGamepad.h> 
+#include <BleGamepad.h>   // https://github.com/lemmingDev/ESP32-BLE-Gamepad
 
 #define numOfButtons        8
 #define numOfHatSwitches    0
